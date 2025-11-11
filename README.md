@@ -5,7 +5,7 @@ Semester : 3rd Sem
 Section : A
 Subject Name : Project Management with GIT
 Subject code : BCS358C
-Academic Year : 2024-25
-Mobile no : 9740665
+Academic Year : 2025-26
+Mobile no : 9740665583
 Email ID : sana@gmail.com
 
