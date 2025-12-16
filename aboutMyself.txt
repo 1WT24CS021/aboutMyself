@@ -1,9 +1,9 @@
 Title: Ms.
 Full Name: Sana.A
 USN: 1WT24CS021
-Semester: 3rd Sem
+Semester: Third
 Section: A
-Branch: Computer Science Engg.
-Year of Admission: 2024
+Branch: Computer Science Engineering
+Year of Admission: 2024 
 College Name: GITW
 
