@@ -6,7 +6,6 @@ Section: A
 Branch: Computer Science Engineering
 Year of Admission: 2024 
 College Name: GITW
-Branch : Computer Science Engineering
 Year of Admission: 2024
 College Name: GITW
 School : NBPS
